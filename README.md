@@ -7,5 +7,5 @@ I expect to learn more and stay updated on modern software maintenance practices
 
 ## GitHub Profile
 
-You can view my personalized GitHub profile [here, insert link to your github profile]
+You can view my personalized GitHub profile [here, https://github.com/ElvinaPau]
 
