@@ -3,7 +3,7 @@
 Hi! I'm Elvina Pau Ruey Ci, a student in the Framework-Based Software Design and Development course. 
 I expect to learn more and stay updated on modern software maintenance practices.
 
-![My Image] ([profile pic.HEIC]) <!-- Link to the uploaded image -->
+![My Image] ([profile pic.jpeg]) <!-- Link to the uploaded image -->
 
 ## GitHub Profile
 
